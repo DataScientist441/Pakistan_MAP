@@ -1,4 +1,4 @@
-{
+Khyber Pakhtunkhwa{
   "type": "Topology",
   "transform": {
     "scale": [
@@ -10297,9 +10297,9 @@
             "ISO": "PAK",
             "NAME_0": "Pakistan",
             "ID_1": 2151,
-            "NAME_1": "F.A.T.A.",
+            "NAME_1": "Khyber Pakhtunkhwa.",
             "ID_2": 25307,
-            "NAME_2": "F.A.T.A.",
+            "NAME_2": "Khyber Pakhtunkhwa.",
             "VARNAME_2": "",
             "HASC_2": "PK.TA.TA",
             "TYPE_2": "Division",
@@ -10544,9 +10544,9 @@
             "ISO": "PAK",
             "NAME_0": "Pakistan",
             "ID_1": 2154,
-            "NAME_1": "Northern Areas",
+            "NAME_1": "Gilgit-Baltistan",
             "ID_2": 25317,
-            "NAME_2": "Northern Areas",
+            "NAME_2": "Gilgit-Baltistan",
             "VARNAME_2": "",
             "HASC_2": "PK.NA.NA",
             "TYPE_2": "Division",
