@@ -9369,12 +9369,12 @@
           ],
           "type": "Polygon",
           "properties": {
-            "ISO": "IND",
-            "NAME_0": "India",
+            "ISO": "PAK",
+            "NAME_0": "Pakisan",
             "ID_1": 1301,
             "NAME_1": "Jammu and Kashmir",
             "VARNAME_1": "",
-            "HASC_1": "IN.JK",
+            "HASC_1": "PK.JK",
             "TYPE_1": "State",
             "ENGTYPE_1": "State"
           }
